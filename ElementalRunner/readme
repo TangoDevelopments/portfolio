@@ -1,0 +1,6 @@
+This is the C# code for a new game I developed with Vijay K, Yuqi Y, and Tracy Z for CS-3113.
+
+The idea for this game was to create a fun, replayable, and mechanically skillful game for mobile users.  
+We've always enjoyed endless runners and spending hours trying to get a new high score in them.  
+This is a game that implements traditional runner features with different platforms and enemies, but also has the elemental 
+twist which requires quick thinking from the user.
